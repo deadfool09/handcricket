@@ -1,0 +1,2 @@
+# Dispo Discord bot
+  Bored of this quarantine, can't play outdoor games with your friends? Dispo is here where you can play sports online on Discord, includes Handcricket, Football, Baseball, Economy etc..
